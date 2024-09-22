@@ -1,0 +1,88 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+  <!-- Bee Wings -->
+  <path
+      android:pathData="M30,59c0,-8 8,-15 14,-15s14,7 14,15 -8,8 -14,8 -14,-3 -14,-8z"
+      android:fillColor="#FFFFFF"
+      android:strokeColor="#000000"
+      android:strokeWidth="1"/>
+
+  <path
+      android:pathData="M89,59c0,-8 -8,-15 -14,-15s-14,7 -14,15 8,8 14,8 14,-3 14,-8z"
+      android:fillColor="#FFFFFF"
+      android:strokeColor="#000000"
+      android:strokeWidth="1"/>
+
+  <!-- Bee Body -->
+  <path
+      android:pathData="M59,50c-10,0 -16,8 -16,16s6,16 16,16 16,-8 16,-16 -6,-16 -16,-16z"
+      android:fillColor="#FFFFFF"
+      android:strokeColor="#000000"
+      android:strokeWidth="1"/>
+
+  <!-- Bee Head -->
+  <path
+      android:pathData="M59,35c-7,0 -10,5 -10,10s3,10 10,10 10,-5 10,-10 -3,-10 -10,-10z"
+      android:fillColor="#FFFFFF"
+      android:strokeColor="#000000"
+      android:strokeWidth="1"/>
+
+  <!-- Ear Muffs -->
+  <path
+      android:pathData="M42,38c0,2 2,4 4,4s4,-2 4,-4 -2,-4 -4,-4 -4,2 -4,4z"
+      android:fillColor="#FFFFFF"
+      android:strokeColor="#000000"
+      android:strokeWidth="1"/>
+
+  <path
+      android:pathData="M68,38c0,2 2,4 4,4s4,-2 4,-4 -2,-4 -4,-4 -4,2 -4,4z"
+      android:fillColor="#FFFFFF"
+      android:strokeColor="#000000"
+      android:strokeWidth="1"/>
+
+  <!-- Bee Stripes -->
+  <path
+      android:pathData="M48,58l20,0"
+      android:strokeColor="#000000"
+      android:strokeWidth="2"/>
+
+  <path
+      android:pathData="M48,64l20,0"
+      android:strokeColor="#000000"
+      android:strokeWidth="2"/>
+
+  <path
+      android:pathData="M48,70l20,0"
+      android:strokeColor="#000000"
+      android:strokeWidth="2"/>
+
+  <!-- Bee Antennae -->
+  <path
+      android:pathData="M54,35c-2,-2 -4,-2 -6,0"
+      android:strokeColor="#000000"
+      android:strokeWidth="1"/>
+
+  <path
+      android:pathData="M64,35c2,-2 4,-2 6,0"
+      android:strokeColor="#000000"
+      android:strokeWidth="1"/>
+
+  <!-- Bee Eyes -->
+  <path
+      android:pathData="M54,43c-1,0 -2,-1 -2,-2s1,-2 2,-2 2,1 2,2 -1,2 -2,2z"
+      android:fillColor="#000000"/>
+
+  <path
+      android:pathData="M62,43c-1,0 -2,-1 -2,-2s1,-2 2,-2 2,1 2,2 -1,2 -2,2z"
+      android:fillColor="#000000"/>
+
+  <!-- Smile -->
+  <path
+      android:pathData="M56,47c1,1 3,1 4,0"
+      android:strokeColor="#000000"
+      android:strokeWidth="1"/>
+</vector>
